@@ -1,3 +1,6 @@
+simpan didalam folder dengan nama knowledge_book_system
+buat atau masukkan database mysql dengan nama book_knowledge atau knowledge_book (dilihat terlebih dahulu di config.php)
+
 ###################
 What is CodeIgniter
 ###################
