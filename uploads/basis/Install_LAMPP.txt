@@ -1,0 +1,22 @@
+download in centos
+>wget https://blablabla.com (download software di alamt tsb)
+
+Install app linux
+[root@localhost ~]# chmod a+x xampp-linux-x64-5.6.24-1-installer.run
+[root@localhost ~]# ./xampp-linux-x64-5.6.24-1-installer.run
+
+>yum install wget
+>yum install mlocate 
+>yum install nano
+
+>ls -lrth (list)
+lampp>./lampp status
+>updatedb
+>locate httpd
+
+>./lampp restart
+>iptables -L (cek firewall)
+>iptables -F (solusi firewall)
+
+>mkdir coba (membuat folder coba)
+>nano (create file)

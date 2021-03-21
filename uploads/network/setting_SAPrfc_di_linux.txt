@@ -1,0 +1,27 @@
+tambahkan di /etc/service
+
+# Local services
+#### SAP System #########
+sapmsSED  3600/tcp
+sapmsSEP  3621/tcp
+sapmsSEQ  3610/tcp
+sapgw20   3320/tcp
+sapgw10   3310/tcp
+sapgw00   3300/tcp
+sapdp00s  4700/tcp
+sapdp10s  4710/tcp
+sapdp20s  4720/tcp
+sapdp00   3200/tcp
+sapdp10   3210/tcp
+sapdp20   3220/tcp
+
+#Connection String
+MSHOST = sepappvip.semenindonesia.com
+R3NAME = SEP
+GROUP = SAPRFC
+CLIENT = 210
+SYSNR = 20
+USER = 
+PASSWD = 
+
+
